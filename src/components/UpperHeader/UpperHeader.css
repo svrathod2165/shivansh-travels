@@ -1,2 +1,9 @@
 .upper-header {
+  background-color: #eee;
+  max-height: 49px;
+}
+
+.upper-header-inner-box {
+  display: flex;
+  justify-content: flex-end;
 }
