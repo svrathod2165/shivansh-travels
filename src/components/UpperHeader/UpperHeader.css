@@ -7,3 +7,7 @@
   display: flex;
   justify-content: flex-end;
 }
+
+.email-icon {
+  padding-right: 5px;
+}
